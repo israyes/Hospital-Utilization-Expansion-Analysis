@@ -13,7 +13,8 @@ The actual patient data, including personal health information (PHI), has been r
 
  # Analysis on  the age distribution of patients who have come to the hospital for testing 
  
- ![IMG-20220811-WA0016](https://github.com/abayomi-hayes/Hospital-Utilization-Expansion-Analysis/assets/119630129/ae820939-abc0-4a2f-b218-b6f7fe687ddf)
+ ![IMG-20220811-WA0016](https://github.com/abayomi-hayes/Hospital-Utilization-Expansion-Analysis/assets/119630129/f10f9330-d96b-4207-bce0-2487cff2280a)
+
 
 
 
