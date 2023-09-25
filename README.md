@@ -11,5 +11,10 @@ The actual patient data, including personal health information (PHI), has been r
 1 sensitization programs in the under developed regions telling and demonstrating the importance of medical check ups, and consulting a medical doctor.
 2 creating another branch of the lab in between the under developed and the developed areas that way the issue of long  distance is resolved and that will also host the team responsible for sensitization programs.
 
+ # Analysis on  the age distribution of patients who have come to the hospital for testing 
+ 
+ ![IMG-20220811-WA0016](https://github.com/abayomi-hayes/Hospital-Utilization-Expansion-Analysis/assets/119630129/ae820939-abc0-4a2f-b218-b6f7fe687ddf)
+
+
 
 
